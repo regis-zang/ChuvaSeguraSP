@@ -1,1 +1,11 @@
 Regis Cristiano Zang de Morais
+
+conn_mysql = mysql.connector.connect(
+    host='108.167.188.170',
+    user='mectsu42_lakare',
+    password='Fiap@2024',
+    database='mectsu42_chuvaseguraSP'
+)
+
+
+
